@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-18T07:30:10.201Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bdmeHDfckw5Jl74Q_KeH" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-18T07:44:39.736Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="5aktANFt6FnDkuAZS2Z-" version="12.4.3" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -114,29 +114,9 @@
         <mxCell id="mCbQTqABaY7V2KOwf3k1-92" value="通过数据源调用学生管理的存储过程，并更新界面数据显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="261" y="720" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="mCbQTqABaY7V2KOwf3k1-100" edge="1">
+        <mxCell id="mCbQTqABaY7V2KOwf3k1-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mCbQTqABaY7V2KOwf3k1-98" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="317" y="383" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mCbQTqABaY7V2KOwf3k1-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="317" y="383" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mCbQTqABaY7V2KOwf3k1-104" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="317" y="383" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mCbQTqABaY7V2KOwf3k1-105" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="317" y="383" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321.25" y="740" as="targetPoint"/>
+            <mxPoint x="321" y="720" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="102.25" y="703"/>
               <mxPoint x="322.25" y="703"/>
@@ -144,11 +124,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-98" value="查询某个学生信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="42.25" y="443" width="120" height="50" as="geometry"/>
+          <mxGeometry x="43.25" y="390" width="120" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-100" edge="1">
+        <mxCell id="mCbQTqABaY7V2KOwf3k1-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mCbQTqABaY7V2KOwf3k1-100" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321.25" y="740" as="targetPoint"/>
+            <mxPoint x="321" y="720" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="542.25" y="703"/>
               <mxPoint x="322.25" y="703"/>
@@ -156,11 +136,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-100" value="删除某个学生信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="482.25" y="443" width="120" height="50" as="geometry"/>
+          <mxGeometry x="483.25" y="390" width="120" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-104" edge="1">
+        <mxCell id="mCbQTqABaY7V2KOwf3k1-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mCbQTqABaY7V2KOwf3k1-104" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321.25" y="740" as="targetPoint"/>
+            <mxPoint x="321" y="720" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="242.25" y="603"/>
               <mxPoint x="322.25" y="603"/>
@@ -168,11 +148,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-104" value="添加学生信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="182.25" y="443" width="120" height="50" as="geometry"/>
+          <mxGeometry x="183.25" y="390" width="120" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-105" edge="1">
+        <mxCell id="mCbQTqABaY7V2KOwf3k1-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mCbQTqABaY7V2KOwf3k1-105" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="321.25" y="740" as="targetPoint"/>
+            <mxPoint x="321" y="720" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="391.25" y="603"/>
               <mxPoint x="322.25" y="603"/>
@@ -180,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-105" value="修改学生信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="331.25" y="443" width="120" height="50" as="geometry"/>
+          <mxGeometry x="332.25" y="390" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-121" target="mCbQTqABaY7V2KOwf3k1-128" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -201,20 +181,6 @@
         <mxCell id="mCbQTqABaY7V2KOwf3k1-123" value="通过数据源调用学生成绩管理的存储过程，并更新界面数据显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="257" y="1520" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mCbQTqABaY7V2KOwf3k1-128" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="537" y="1204" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-128" target="mCbQTqABaY7V2KOwf3k1-130" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-128" target="mCbQTqABaY7V2KOwf3k1-134" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-128" target="mCbQTqABaY7V2KOwf3k1-136" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-130" target="mCbQTqABaY7V2KOwf3k1-123" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="317" y="1464" as="targetPoint"/>
@@ -225,9 +191,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-130" value="查询某个学生的成绩信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="37" y="1204" width="120" height="50" as="geometry"/>
+          <mxGeometry x="43.25" y="1130" width="120" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mCbQTqABaY7V2KOwf3k1-123" edge="1">
+        <mxCell id="mCbQTqABaY7V2KOwf3k1-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="mCbQTqABaY7V2KOwf3k1-123" edge="1" source="mCbQTqABaY7V2KOwf3k1-132">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="317" y="1464" as="targetPoint"/>
             <Array as="points">
@@ -238,7 +204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-132" value="删除某个学生的成绩信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="476" y="1204" width="120" height="50" as="geometry"/>
+          <mxGeometry x="482.25" y="1130" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-134" target="mCbQTqABaY7V2KOwf3k1-123" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -250,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-134" value="添加某个学生的成绩信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="177" y="1204" width="120" height="50" as="geometry"/>
+          <mxGeometry x="183.25" y="1130" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-136" target="mCbQTqABaY7V2KOwf3k1-123" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -262,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-136" value="修改学生的成绩信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="326" y="1204" width="120" height="50" as="geometry"/>
+          <mxGeometry x="332.25" y="1130" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mCbQTqABaY7V2KOwf3k1-140" target="mCbQTqABaY7V2KOwf3k1-147" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -274,26 +240,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="14.169999999999996" y="1783" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="314" y="2340"/>
-              <mxPoint x="14" y="2340"/>
-              <mxPoint x="14" y="1788"/>
+              <mxPoint x="14" y="2310"/>
+              <mxPoint x="14" y="1808"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-142" value="通过数据源调用课程管理的存储过程，并更新界面数据显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250.25000000000003" y="2260" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mCbQTqABaY7V2KOwf3k1-147" target="mCbQTqABaY7V2KOwf3k1-151" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-147" target="mCbQTqABaY7V2KOwf3k1-149" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-147" target="mCbQTqABaY7V2KOwf3k1-153" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="mCbQTqABaY7V2KOwf3k1-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-147" target="mCbQTqABaY7V2KOwf3k1-155" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry x="250.25000000000003" y="2280" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-149" target="mCbQTqABaY7V2KOwf3k1-142" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -305,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-149" value="查询某个课程信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30.249999999999993" y="2003" width="120" height="50" as="geometry"/>
+          <mxGeometry x="30.249999999999993" y="1920" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-151" target="mCbQTqABaY7V2KOwf3k1-142" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -317,7 +270,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-151" value="删除某个课程信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470.25" y="2003" width="120" height="50" as="geometry"/>
+          <mxGeometry x="470.25" y="1920" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-153" target="mCbQTqABaY7V2KOwf3k1-142" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -329,7 +282,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-153" value="添加课程信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170.25000000000003" y="2003" width="120" height="50" as="geometry"/>
+          <mxGeometry x="170.25000000000003" y="1920" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mCbQTqABaY7V2KOwf3k1-155" target="mCbQTqABaY7V2KOwf3k1-142" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -341,10 +294,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-155" value="修改课程信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="319.25" y="2003" width="120" height="50" as="geometry"/>
+          <mxGeometry x="319.25" y="1920" width="120" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="mCbQTqABaY7V2KOwf3k1-96" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;allowArrows=1;connectable=1;portConstraintRotation=0;noLabel=0;part=0;perimeter=rectanglePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="101" y="333" width="440" height="50" as="geometry"/>
+          <mxGeometry x="102.25" y="340" width="440" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
